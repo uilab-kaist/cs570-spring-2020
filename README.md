@@ -22,37 +22,36 @@
 
 - TBA
 
-| Event                                    | Date  | Description                                                                | Materials and Assignments |
-|------------------------------------------|-------|----------------------------------------------------------------------------|---------------------------|
-| Lecture 1                                | 9/23  | Introduction and Basic Concepts                                            |                           |
-| Lecture 2                                | 9/25  | Supervised Learning Setup. Linear Regression.                              | Class Notes               |
-| Lecture 3                                | 9/30  | Weighted Least Squares. Logistic Regression. Netwon's Method               |                           |
-| Lecture 4                                | 10/2  |                                                                            |                           |
-| Lecture 5                                | 10/7  | Gaussian Discriminant Analysis. Naive Bayes.                               |                           |
-| Lecture 6                                | 10/9  | Laplace Smoothing. Support Vector Machines.                                |                           |
-| Lecture 7                                | 10/14 | Support Vector Machines. Kernels.                                          |                           |
-| Lecture 8                                | 10/16 | Neural Networks - 1                                                        | Class Notes               |
-| Project                                  | 10/18 | Project proposal due 10/18 at 11:59pm.                                     |                           |
-| Lecture 9                                | 10/21 | Neural Networks - 2                                                        |                           |
-| Lecture 10                               | 10/23 | Bias - Variance. Regularization. Feature / Model selection.                | Class Notes               |
-| Lecture 11                               | 10/28 | Practical Advice for ML projects.                                          | Class Notes               |
-| Lecture 12                               | 10/30 | K-Means. GMM (non EM). Expectation Maximization.                           | Class Notes               |
-| Lecture 13                               | 11/4  | Expectation Maximization. Factor Analysis.                                 | Class Notes               |
-| Midterm                                  | 11/5  | The midterm details are posted on Piazza.                                  |                           |
-| Lecture 14                               | 11/6  | Principal and Independent Component Analysis.                              | Class Notes               |
-| Lecture 15                               | 11/11 | Weak Supervision                                                           | Class Notes               |
-| Lecture 16                               | 11/13 |                                                                            |                           |
-| Project                                  | 11/15 | Project milestones due 11/15 at 11:59pm.                                   |                           |
-| Lecture 17                               | 11/18 | Value Iteration and Policy Iteration                                       | Class Notes               |
-| Reinforcement Learning and Control [pdf] |       |                                                                            |                           |
-| Lecture 18                               | 11/20 | Bias and Variance                                                          | Class Notes               |
-| Bias / Variance [pdf]                    |       |                                                                            |                           |
-| Lecture 19                               | 12/2  | Learning Theory                                                            | Class Notes               |
-| Learning Theory [pdf]                    |       |                                                                            |                           |
-| Lecture 20                               | 12/4  | Course wrap-up. Beyond CS229 Guest Lectures! Details [link]                |                           |
-| Project                                  | 12/11 | Poster submission deadline, due 12/11 at 11:59pm (no late days).           |                           |
-| Project                                  | 12/12 | Poster presentations from 8:30-11:30am. Venue and details to be announced. |                           |
-| Project                                  | 12/13 | Project final report due 12/13 at 11:59pm (no late days).                  |                           |
+| Event      | Date  | Description                                                  | Materials and Assignments |
+|------------|-------|--------------------------------------------------------------|---------------------------|
+| Lecture 1  | 3/2   | Introduction and Basic Concepts                              |                           |
+| Lecture 2  | 3/4   | Supervised Learning Setup. Linear Regression.                |                           |
+| Lecture 3  | 3/9   | Weighted Least Squares. Logistic Regression. Netwon's Method |                           |
+| Lecture 4  | 3/11  |                                                              |                           |
+| Lecture 5  | 3/16  | Gaussian Discriminant Analysis. Naive Bayes.                 |                           |
+| Lecture 6  | 3/18  | Laplace Smoothing. Support Vector Machines.                  |                           |
+| Lecture 7  | 3/23  | Support Vector Machines. Kernels.                            |                           |
+| Lecture 8  | 3/25  | Neural Networks - 1                                          |                           |
+| Project    | 3/30  | Project proposal due 10/18 at 11:59pm.                       |                           |
+| Lecture 9  | 4/1   | Neural Networks - 2                                          |                           |
+| Lecture 10 | 4/6   | Bias - Variance. Regularization. Feature / Model selection.  |                           |
+| Lecture 11 | 4/8   | Practical Advice for ML projects.                            |                           |
+| Lecture 12 | 4/13  | K-Means. GMM (non EM). Expectation Maximization.             |                           |
+| Holiday    | 4/15  |                                                              |                           |
+| Lecture 13 | 4/20  | Expectation Maximization. Factor Analysis.                   |                           |
+| Midterm    | 4/22  | The midterm details are posted on Piazza.                    |                           |
+| Lecture 14 | 4/27  | Principal and Independent Component Analysis.                |                           |
+| Lecture 15 | 4/29  | Weak Supervision                                             |                           |
+| Lecture 16 | 5/4   |                                                              |                           |
+| Lecture 17 | 5/6   | Value Iteration and Policy Iteration                         |                           |
+| Lecture 18 | 5/11  | Bias and Variance                                            |                           |
+| Lecture 19 | 5/13  | Learning Theory                                              |                           |
+| Lecture 20 | 5/18  |                                                              |                           |
+| Lecture 20 | 5/20  |                                                              |                           |
+| Lecture 21 | 5/25  |                                                              |                           |
+| Lecture 22 | 5/27  |                                                              |                           |
+| Project    | 6/1 ~ |                                                              |                           |
+
 
 ## Team Projects
 
