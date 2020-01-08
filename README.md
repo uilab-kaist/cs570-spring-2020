@@ -54,7 +54,7 @@
 
 ## Team Projects
 
-- TBA
+- https://github.com/uilab-kaist/cs570-spring-2020/blob/master/project.md
 
 ## Evaluation
 
