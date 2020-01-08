@@ -4,6 +4,7 @@
 
 - Alice Oh(Instructor), Jiseon Kim, Donghoon Han, Jaimeen Ahn, and Changyoon Lee
 - cs570.uilab@gmail.com
+
 **You should send email to cs570.uilab@gmail.com only. We will ignore any emails arriving in other accounts.**
 
 ## Time & Location
