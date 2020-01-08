@@ -1,6 +1,6 @@
 # cs570-spring-2020
 
-## Teaching Staff & Contact
+## Teaching Staff
 
 - Alice Oh(Instructor), Jiseon Kim, Donghoon Han, Jaimeen Ahn, and Changyoon Lee
 - cs570.uilab@gmail.com
@@ -58,7 +58,16 @@
 
 ## Evaluation
 
-- TBA
+* Midterm : 25%
+* Assignment : 25%
+* Quiz : 15%
+* Project : 35%
+  * Proposal presentation : 5%
+  * Progress presentation : 5%
+  * Final presentation: 15%
+  * Final report : 5%
+  * Peer grading : 5%
+  * **Note that any team may get up to -25%p for project score if there is a serious problem with teamwork.**
 
 ## Textbook
 
