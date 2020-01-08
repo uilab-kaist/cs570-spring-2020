@@ -30,3 +30,7 @@
 ## Evaluation
 
 - TBA
+
+## Textbook
+
+- Machine Learning: a Probabilistic Perspective (MLPP) by Kevin Murphy
