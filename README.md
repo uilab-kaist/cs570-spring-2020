@@ -22,6 +22,7 @@
 ## Schedule (Subject to Change)
 
 - TBA
+
 | Event                                                      | Date        | Description                                                                | Materials and Assignments |
 |------------------------------------------------------------|-------------|----------------------------------------------------------------------------|---------------------------|
 | Lecture 1                                                  | 9/23        | Introduction and Basic Concepts                                            |                           |
