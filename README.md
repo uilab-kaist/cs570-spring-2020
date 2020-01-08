@@ -2,14 +2,14 @@
 
 ## Teaching Staff
 
-- Alice Oh, Jiseon Kim, Donghoon Han, Jaimeen Ahn, Changyoon Lee
+- Alice Oh(Instructor), Jiseon Kim, Donghoon Han, Jaimeen Ahn, and Changyoon Lee
 - cs570.uilab@gmail.com
 
-**When you send emails, please email to all Professors and TAs. and put "CS570" to the title. (e.g., [CS570] Do we have a class on MM/DD?)**
+**You should send email to cs570.uilab@gmail.com only. We will ignore any emails arriving in other accounts.**
 
 ## Time & Location
-- Non/Wed: 10:30~12:00
-- 1220 (E3)Information Science and Electronics Bldg.
+- Mon/Wed 10:30~12:00
+- #1220, E3-1 (Information Science and Electronics Bldg.)
 
 ## Important Notes about Registering for this Course
 
