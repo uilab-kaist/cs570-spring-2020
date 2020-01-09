@@ -60,7 +60,7 @@
 
 * Midterm : 25%
 * Homework Assignments : 25%
-* Quiz : 15%
+* 8 In-Class Quizzes : 15%
 * Project : 35%
   * Proposal presentation : 5%
   * Progress presentation : 5%
