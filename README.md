@@ -24,21 +24,21 @@
 | Lecture 1  | 03/02   | Introduction and Basic Concepts                              |                           |
 | Lecture 2  | 03/04   | Supervised Learning; Linear Regression                |                           |
 | Lecture 3  | 03/09   | Logistic Regression |                           |
-| Lecture 4  | 03/11  | Naive Bayes               |                           |
+| Lecture 4  | 03/11  | Naive Bayes               |           HW #1                |
 | Lecture 5  | 03/16  | Gaussian Discriminant Analysis                 |                           |
 | Lecture 6  | 03/18  | Exponential Family                  |                           |
 | Lecture 7  | 03/23  | Gaussian Mixture Models                            |                           |
-| Lecture 8  | 03/25  | PCA; ICA                                          |                           |
+| Lecture 8  | 03/25  | PCA; ICA                                          |          HW #2                 |
 | Lecture 9  | 03/30  | Regularization; Feature/Model selection                                          |                           |
 | Lecture 10 | 04/01   | Support Vector Machines; Kernels  |                           |
-| Lecture 11 | 04/06   | ML project description                            |                           |
+| Lecture 11 | 04/06   | ML project description                            |             HW #3              |
 | Lecture 12 | 04/08   | Neural networks             |                           |
 | Lecture 13 | 04/13  | Neural networks                   |                           |
 | Holiday    | 04/15  | No Class                                                     |                           |
 | Lecture 14 | 04/20  | Review; Catch-up |                           |
 | Midterm    | 04/22  | Midterm                                                      |                           |
 | Lecture 15 | 04/27  | CART; Boosting                                             |                           |
-| Lecture 16 | 04/29  | Clustering                                             |                           |
+| Lecture 16 | 04/29  | Clustering                                             |    HW #4                       |
 | Lecture 17 | 05/04   | Reinforcement Learning                         |                           |
 | Lecture 18 | 05/06   | Reinforcement Learning                                            |                           |
 | Lecture 19 | 05/11  | Computer Vision                                              |                           |
@@ -59,7 +59,7 @@
 ## Evaluation
 
 * Midterm : 25%
-* Assignment : 25%
+* Homework Assignments : 25%
 * Quiz : 15%
 * Project : 35%
   * Proposal presentation : 5%
