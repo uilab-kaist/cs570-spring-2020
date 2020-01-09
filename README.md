@@ -19,8 +19,6 @@
 
 ## Schedule (Subject to Change)
 
-- TBA
-
 | Event      | Date  | Description                                                  | Materials and Assignments |
 |------------|-------|--------------------------------------------------------------|---------------------------|
 | Lecture 1  | 03/02   | Introduction and Basic Concepts                              |                           |
@@ -53,6 +51,9 @@
 
 ## Team Projects
 
+- Team project will be a major part of the class, especially during the second half
+- Projects will be basically replication/modifications of recent research in AI/ML
+- More details will be described during the first lecture
 - https://github.com/uilab-kaist/cs570-spring-2020/blob/master/project.md
 
 ## Evaluation
