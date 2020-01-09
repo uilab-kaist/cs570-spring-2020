@@ -27,8 +27,8 @@
 | Lecture 4  | 03/11  | Naive Bayes               |           HW #1                |
 | Lecture 5  | 03/16  | Gaussian Discriminant Analysis                 |                           |
 | Lecture 6  | 03/18  | Exponential Family                  |                           |
-| Lecture 7  | 03/23  | Gaussian Mixture Models                            |                           |
-| Lecture 8  | 03/25  | PCA; ICA                                          |          HW #2                 |
+| Lecture 7  | 03/23  | Gaussian Mixture Models                            |     HW #2                      |
+| Lecture 8  | 03/25  | PCA; ICA                                          |                           |
 | Lecture 9  | 03/30  | Regularization; Feature/Model selection                                          |                           |
 | Lecture 10 | 04/01   | Support Vector Machines; Kernels  |                           |
 | Lecture 11 | 04/06   | ML project description                            |             HW #3              |
