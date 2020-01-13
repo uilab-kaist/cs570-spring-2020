@@ -56,7 +56,7 @@ In addition to 80 students registered in the academic system, we will **only** a
 - Team project will be a major part of the class, especially during the second half
 - Projects will be basically replication/modifications of recent research in AI/ML
 - More details will be described in the document below
-- https://github.com/uilab-kaist/cs570-spring-2020/blob/master/project.md
+- https://uilab-kaist.github.io/cs570-spring-2020/project
 
 ## Evaluation
 
