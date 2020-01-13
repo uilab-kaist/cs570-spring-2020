@@ -1,4 +1,6 @@
 # cs570-spring-2020
+## Course Registration
+In addition to 80 students registered in the academic system, we will **only** accept **20** additional registrations. (i.e., the professor will sign the documents for 20 students.) Please note that the priority is given to M.S. students in School of Computing. 
 
 ## Teaching Staff
 
