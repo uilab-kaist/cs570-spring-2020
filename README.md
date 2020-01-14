@@ -2,13 +2,16 @@
 ## Course Registration
 In addition to 80 students registered in the academic system, we will **only** accept **20** additional registrations. (i.e., the professor will sign the documents for 20 students.) Please note that the priority is given to M.S. students in School of Computing. 
 
-#### Priority
+#### Priority ================================================================================================
+
 The following is the priority for adding this class for those who did not succeed in registering for this class.
 1. SoC MS or MS/PhD 1st or 2nd year
 2. SoC Undergraduate students in 7th semester or beyond
 3. All other graduate students in SoC
 4. Graduate students in EE and AI
+
 We will sign the add form up to 100 total students enrolled. Please come to the first class and get your form signed after the lecture.
+
 
 추가 신청의 priority는 다음과 같습니다.
 1. 전산학부 석사, 혹은 석박 통합 1-2년차 학생
@@ -17,7 +20,7 @@ We will sign the add form up to 100 total students enrolled. Please come to the 
 4. 전기전자/AI 대학원 석/박/통합 학생
 전체 수강생 100명까지 서명할 예정입니다.
 추가 신청을 원하는 학생은 첫 수업에 와서 수업후에 이 순서대로 서명 받으시면 됩니다.
-
+#### +++++++++================================================================================================
 
 ## Teaching Staff
 
