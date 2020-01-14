@@ -1,6 +1,6 @@
 # cs570-spring-2020
 ## Course Registration
-In addition to 80 students registered in the academic system, we will **only** accept **20** additional registrations. (i.e., the professor will sign the documents for 20 students.) Please note that the priority is given to M.S. students in School of Computing. 
+In addition to 80 students registered in the academic system, we will **only** accept **20** additional registrations. (i.e., the professor will sign the documents for 20 students.) The priority is as below:
 
 #### Priority
 <hr/>
@@ -23,6 +23,7 @@ We will sign the add form up to 100 total students enrolled. Please come to the 
 
 전체 수강생 100명까지 서명할 예정입니다. 추가 신청을 원하는 학생은 첫 수업에 와서 수업후에 이 순서대로 서명 받으시면 됩니다.
 <hr/>
+
 ## Teaching Staff
 
 - Lecturer: Alice Oh
