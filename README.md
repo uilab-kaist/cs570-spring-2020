@@ -29,7 +29,7 @@ We will sign the add form up to 100 total students enrolled. Please come to the 
 - TA: Jiseon Kim, Donghoon Han, Jaimeen Ahn, and Changyoon Lee
 - Contact: cs570.uilab@gmail.com
 
-**Please send email to cs570.uilab@gmail.com. We will not consider any class-related email arriving in our personal accounts. When you send emails, please put "CS570" to the title. (e.g., [CS570] Do we have a class on MM/DD?)**
+**Please send email to cs570.uilab@gmail.com. We will not consider any class-related email arriving in our personal accounts. When you send emails, please put "[CS570]" to the title. (e.g., [CS570] Do we have a class on MM/DD?)**
 
 ## Time & Location
 - Mon/Wed 10:30 - 12:00
