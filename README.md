@@ -5,6 +5,7 @@ In addition to 80 students registered in the academic system, we will **only** a
 #### Priority
 <hr/>
 The following is the priority for adding this class for those who did not succeed in registering for this class.
+
 > 1. SoC MS or MS/PhD 1st or 2nd year
 > 2. SoC Undergraduate students in 7th semester or beyond
 > 3. All other graduate students in SoC
