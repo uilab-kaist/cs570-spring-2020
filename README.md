@@ -2,7 +2,7 @@
 ## Course Registration
 In addition to 80 students registered in the academic system, we will **only** accept **20** additional registrations. (i.e., the professor will sign the documents for 20 students.) The priority is as below:
 
-#### Priority
+- Priority
 
 The following is the priority for adding this class for those who did not succeed in registering for this class.
 
