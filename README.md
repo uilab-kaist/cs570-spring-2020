@@ -1,8 +1,8 @@
 # cs570-spring-2020
 ## Course Registration
-In addition to 80 students registered in the academic system, we will **only** accept **20** additional registrations. (i.e., the professor will sign the documents for 20 students.) The priority is as below:
+In addition to 80 students registered in the academic system, we will **only** accept **20** additional registrations. (i.e., the professor will sign the documents for 20 students.)
 
-- Priority
+- **Priority**
 
 The following is the priority for adding this class for those who did not succeed in registering for this class.
 
