@@ -2,13 +2,15 @@
 ## Course Registration
 In addition to 80 students registered in the academic system, we will **only** accept **20** additional registrations. (i.e., the professor will sign the documents for 20 students.) Please note that the priority is given to M.S. students in School of Computing. 
 
-### Priority
+#### Priority
 The following is the priority for adding this class for those who did not succeed in registering for this class.
-SoC MS or MS/PhD 1st or 2nd year
+
+1. SoC MS or MS/PhD 1st or 2nd year
 2. SoC Undergraduate students in 7th semester or beyond
 3. All other graduate students in SoC
 4. Graduate students in EE and AI
-I will sign the add form up to 100 total students enrolled. Please come to the first class and get your form signed after the lecture.
+
+We will sign the add form up to 100 total students enrolled. Please come to the first class and get your form signed after the lecture.
 
 ## Teaching Staff
 
