@@ -3,7 +3,7 @@
 ## Update in relation to COVID‑19
 > Please send email to cs570.uilab@gmail.com regarding any class-related issues, instead of the professor's email.
 
-According to the policy of South Korea government and KAIST against the COVID-19 spreading throughout the nation, we have decided to deliver a lecture online for the fisrt two weeks. ***We will notice how to register for this course additionally before the day of the first class(March 16) on this webpage.*** For students who have trouble due to the postponed course closing, please refer to the notice in KLMS after the semester starts.
+According to the policy of South Korea government and KAIST against the COVID-19 spreading throughout the nation, we have decided to deliver a lecture online for the first two weeks. ***We will notice how to register for this course additionally before the day of the first class(March 16) on this webpage.*** For students who have trouble due to the postponed course closing, please refer to the notice in KLMS after the semester starts.
 
 
 ## Course Registration
