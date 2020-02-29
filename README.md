@@ -1,27 +1,20 @@
-# cs570-spring-2020
-## Course Registration
-In addition to 80 students registered in the academic system, we will **only** accept **20** additional registrations. (i.e., the professor will sign the documents for 20 students.)
+# cs570-spring-2020 (Edu 4.0)
 
+## Update in relation to COVID‑19
+> Please send email to cs570.uilab@gmail.com regarding any class-related issues, instead of the professor's email.
+
+According to the policy of South Korea government and KAIST against the COVID-19 spreading throughout the nation, we have decided to deliver a lecture online for the fisrt two weeks. ***We will notice how to register for this course additionally before the day of the first class(March 16) on this webpage.*** For students who have trouble due to the postponed course closing, please refer to the notice in KLMS after the semester starts.
+
+
+## Course Registration
+In addition to 80 students registered in the academic system, we will **only** accept **20** additional registrations. Thus, the total number of enrolled students does not exceed 100. According to the following priority, we will not accept [rank 2] in case the number of students in [rank 1] who hopes to register for this course additionally exceeds 20.
 - **Priority**
 
-The following is the priority for adding this class for those who did not succeed in registering for this class.
-
-> 1. SoC MS or MS/PhD 1st or 2nd year
+> 1. SoC MS / Integrated MS/PhD in 1st or 2nd year
 > 2. SoC Undergraduate students in 7th semester or beyond
 > 3. All other graduate students in SoC
 > 4. Graduate students in EE and AI
 
-We will sign the add form up to 100 total students enrolled. Please come to the first class and get your form signed after the lecture.
-
-
-
-추가 신청의 priority는 다음과 같습니다.
-> 1. 전산학부 석사, 혹은 석박 통합 1-2년차 학생
-> 2. 전산학부 학사 7학기 이상
-> 3. 나머지 전산학부 대학원생
-> 4. 전기전자/AI 대학원 석/박/통합 학생
-
-전체 수강생 100명까지 서명할 예정입니다. 추가 신청을 원하는 학생은 첫 수업에 와서 수업후에 이 순서대로 서명 받으시면 됩니다.
 
 ## Teaching Staff
 
@@ -42,35 +35,36 @@ We will sign the add form up to 100 total students enrolled. Please come to the 
 
 ## Schedule (Subject to Change)
 
-| Event      | Date  | Description                                                  | Materials and Assignments |
-|------------|-------|--------------------------------------------------------------|---------------------------|
-| Lecture 1  | 03/02   | Introduction                              |                           |
-| Lecture 2  | 03/04   | Supervised Learning; Linear Regression                |                           |
-| Lecture 3  | 03/09   | Logistic Regression |                           |
-| Lecture 4  | 03/11  | Naive Bayes               |           HW #1                |
-| Lecture 5  | 03/16  | Gaussian Discriminant Analysis                 |                           |
-| Lecture 6  | 03/18  | Exponential Family                  |                           |
-| Lecture 7  | 03/23  | Gaussian Mixture Models                            |     HW #2                      |
-| Lecture 8  | 03/25  | PCA, ICA                                          |                           |
-| Lecture 9  | 03/30  | Regularization, Feature/Model selection                                          |                           |
-| Lecture 10 | 04/01   | Support Vector Machines, Kernels  |                           |
-| Lecture 11 | 04/06   | ML project description                            |             HW #3              |
-| Lecture 12 | 04/08   | Neural networks             |                           |
-| Lecture 13 | 04/13  | Neural networks                   |                           |
-| Holiday    | 04/15  | No Class                                                     |                           |
-| Lecture 14 | 04/20  | Review; Catch-up |                           |
-| Midterm    | 04/22  | Midterm                                                      |                           |
-| Lecture 15 | 04/27  | CART, Boosting                                             |                           |
-| Lecture 16 | 04/29  | Clustering                                             |    HW #4                       |
-| Lecture 17 | 05/04   | Reinforcement Learning                         |                           |
-| Lecture 18 | 05/06   | Reinforcement Learning                                            |                           |
-| Lecture 19 | 05/11  | Computer Vision                                              |                           |
-| Lecture 20 | 05/13  | Computer Vision                                            |                           |
-| Lecture 21 | 05/18  | Natural Language Processing                                            |                           |
-| Lecture 22 | 05/20  | Natural Language Processing                                           |                           |
-| Lecture 23 | 05/25  |  Ethics in AI/ML                                                       |                           |
-| Lecture 24 | 05/27  | Course Wrap-Up                                                 |                           |
-| Project    | 06/01 - 06/12 | Project Team Meetings with Teaching Staff                                                |                           |
+| Event      | Date  | Description                             | Notes                    | Project         |
+|------------|-------|-----------------------------------------|--------------------------|-----------------|
+| Lecture 1  | 03/16  | Introduction                              |     Online Lecture   |                  |
+| Lecture 2  | 03/18  | Supervised Learning                       |     Online Lecture   |                  |
+| Lecture 3  | 03/23  | Linear Regression, Logistic Regression    |     Online Lecture   |                  |
+| Lecture 4  | 03/25  | Regression                                |     Online Lecture / In-class activity #1   |          |
+| Lecture 5  | 03/30  | Naive Bayes                               |                           |                  |
+| Lecture 6  | 04/01  | Naive Bayes                               |    In-class activity #2   |                  |
+| Lecture 7  | 04/06  | GDA, Exponential Family, SVM, Kernels     |                           |                  |
+| Lecture 8  | 04/08  | SVM                                       |    In-class activity #3   |                  |
+| Lecture 9  | 04/13  | ML Project Description                    |                         | Introduction, Team matching |
+| Holiday    | 04/15  | Election                                  |                           |                  |
+| Lecture 10 | 04/20  | PCA, ICA, clustering                      |                           |                  |
+| Lecture 11 | 04/22  | PCA, K-means clustering                   |    In-class activity #4   |                  |
+| Lecture 12 | 04/27  | Gaussian Mixture Model, EM                |                           |                  |
+| Holiday    | 04/29  | Gaussian Mixture Model, EM                |    In-class activity #5   |                  |
+| Project    | 05/04  | Midterm                                   |                           | Proposal         |
+| Lecture 13 | 05/11  | Neural Networks                           |                           | Peer-review      |
+| Lecture 14 | 05/13  | Deep Learning Basics                      |    In-class activity #6   |                  |
+| Lecture 15 | 05/18  | Regularization, Feature/Model Selection   |                           |                  |
+| Lecture 16 | 05/20  | Deep Learning Advanced                    |    In-class activity #7   |                  |
+| Lecture 17 | 05/25  | CART, Boosting                            |                           |                  |
+| Lecture 18 | 05/27  | Reinforcement Learning                    |                           |                  |
+| Lecture 19 | 06/01  | Computer Vision                           |                           |                  |
+| Lecture 20 | 06/03  | Natural Language Processing               |                           |                  |
+| Lecture 21 | 06/08  | Ethics in NLP/ML                          |                           | Progress Update  |
+| Lecture 22 | 06/10  | Course Wrap-Up                            |                           | Peer-review      |
+| Project    | 06/15 - 06/24 | Project Team Meetings with Teaching Staff   |                  |                  |
+| Project    | 06/29  | No Final                                  |                           | Final            |
+| Project    | 07/01  | No Final                                  |                           | Peer-review      |
 
 ## Team Projects
 
@@ -79,18 +73,18 @@ We will sign the add form up to 100 total students enrolled. Please come to the 
 - More details will be described in the document below
 - https://uilab-kaist.github.io/cs570-spring-2020/project
 
-## Evaluation
+## Evaluation 
 
-* Midterm : 25%
-* Homework Assignments : 25%
-* 8 In-Class Quizzes : 15%
-* Project : 35%
-  * Proposal presentation : 5%
-  * Progress presentation : 5%
-  * Final presentation: 15%
-  * Final report : 5%
-  * Peer grading : 5%
-  * **Note that any team may get up to -25%p for project score if there is a serious problem with teamwork.**
+* 2 Homework Assignments : xx%
+* 7 In-Class Activities : xx%
+* 4-8 Pop Quizzes : xx%
+* Project : xx%
+  * Proposal presentation : x%
+  * Progress presentation : x%
+  * Final presentation: x%
+  * Final report : x%
+  * Peer grading : x%
+  * **Note that any team may get up to -x%p for project score if there is a serious problem with teamwork.**
 
 ## Textbook
 
