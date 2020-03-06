@@ -44,8 +44,8 @@ In addition to 80 students registered in the academic system, we will **only** a
 |   5   | 04/13, ~~04/15~~              | Project               | ML project description                                         | 04/15 Holiday   | Introduction Team matching |
 |   6   | 04/20, 04/22              | Lecture  4 Activity 4 | PCA, ICA, K-means clustering                                  |                |                            |
 |   7   | 04/27, 04/29              | Lecture  5 Activity 5 | Gaussian Mixture Model, EM                                     |                |                            |
-|   8   | 05/04, 05/06              |           -           | No midterm                                                     |       No Class         | Proposal                   |
-|   9   | 05/11, 05/13              | Lecture  6 Activity 6 | Neural networks, Deep Learning Basics                           |                | Peer-review                |
+|   8   | 05/04, 05/06              |           -           | No midterm                                                     |       No Class         | Proposal, Peer-review                   |
+|   9   | 05/11, 05/13              | Lecture  6 Activity 6 | Neural networks, Deep Learning Basics                           |                |                 |
 |   10  | 05/18, 05/20              | Lecture  7 Activity 7 | Regularization, Feature/Model selection, Deep Learning Advanced |                |                            |
 |   11  | 05/25, 05/27              | Lecture  8 Lecture  9 | CART, Boosting, Reinforcement Learning                          |                |                            |
 |   12  | 06/01, 06/03              | Lecture 10 Lecture 11 | Computer Vision, NLP                                            |                | Peer-review                |
