@@ -35,36 +35,23 @@ In addition to 80 students registered in the academic system, we will **only** a
 
 ## Schedule (Subject to Change)
 
-| Event      | Date  | Description                             | Notes                    | Project         |
-|------------|-------|-----------------------------------------|--------------------------|-----------------|
-| Lecture 1  | 03/16  | Introduction                              |     Online Lecture   |                  |
-| Lecture 2  | 03/18  | Supervised Learning                       |     Online Lecture   |                  |
-| Lecture 3  | 03/23  | Linear Regression, Logistic Regression    |     Online Lecture   |                  |
-| Lecture 4  | 03/25  | Regression                                |     Online Lecture / In-class activity #1   |          |
-| Lecture 5  | 03/30  | Naive Bayes                               |                           |                  |
-| Lecture 6  | 04/01  | Naive Bayes                               |    In-class activity #2   |                  |
-| Lecture 7  | 04/06  | GDA, Exponential Family, SVM, Kernels     |                           |                  |
-| Lecture 8  | 04/08  | SVM                                       |    In-class activity #3   |                  |
-| Lecture 9  | 04/13  | ML Project Description                    |                         | Introduction, Team matching |
-| Holiday    | 04/15  | Election                                  |                           |                  |
-| Lecture 10 | 04/20  | PCA, ICA, clustering                      |                           |                  |
-| Lecture 11 | 04/22  | PCA, K-means clustering                   |    In-class activity #4   |                  |
-| Lecture 12 | 04/27  | Gaussian Mixture Model, EM                |                           |                  |
-| Holiday    | 04/29  | Gaussian Mixture Model, EM                |    In-class activity #5   |                  |
-| Project    | 05/04  | Midterm                                   |                           | Proposal         |
-| Lecture 13 | 05/11  | Neural Networks                           |                           | Peer-review      |
-| Lecture 14 | 05/13  | Deep Learning Basics                      |    In-class activity #6   |                  |
-| Lecture 15 | 05/18  | Regularization, Feature/Model Selection   |                           |                  |
-| Lecture 16 | 05/20  | Deep Learning Advanced                    |    In-class activity #7   |                  |
-| Lecture 17 | 05/25  | CART, Boosting                            |                           |                  |
-| Lecture 18 | 05/27  | Reinforcement Learning                    |                           |                  |
-| Lecture 19 | 06/01  | Computer Vision                           |                           |                  |
-| Lecture 20 | 06/03  | Natural Language Processing               |                           |                  |
-| Lecture 21 | 06/08  | Ethics in NLP/ML                          |                           | Progress Update  |
-| Lecture 22 | 06/10  | Course Wrap-Up                            |                           | Peer-review      |
-| Project    | 06/15 - 06/24 | Project Team Meetings with Teaching Staff   |                  |                  |
-| Project    | 06/29  | No Final                                  |                           | Final            |
-| Project    | 07/01  | No Final                                  |                           | Peer-review      |
+|  week |            Day            |          Type         |                              Topic                             |      notes     |           Project          |
+|:-----:|:-------------------------:|:---------------------:|:--------------------------------------------------------------:|:--------------:|:--------------------------:|
+|   1   | 03/16, 03/18              |           -           | Introduction Supervised Learning                               | Online Lecture |                            |
+|   2   | 03/23, 03/25              | Lecture  1 Activity 1 | Logistic Regression Linear Regression                          | Online Lecture |                            |
+|   3   | 03/30, 04/01              | Lecture  2 Activity 2 | Naive Bayes                                                    |                |                            |
+|   4   | 04/06, 04/08              | Lecture  3 Activity 3 | Exponential Family GDA,SVM, Kernels                            |                |                            |
+|   5   | 04/13, 04/15              | Project               | ML project description                                         | 4/15 Holiday   | Introduction Team matching |
+|   6   | 04/20, 04/22              | Lecture  4 Activity 4 | PCA, ICA,  K-means clustering                                  |                |                            |
+|   7   | 04/27, 04/29              | Lecture  5 Activity 5 | Gaussian Mixture Model, EM                                     |                |                            |
+|   8   | 05/04, 05/06              |           -           | No midterm                                                     |                | Proposal                   |
+|   9   | 05/11, 05/13              | Lecture  6 Activity 6 | Neural networks Deep Learning Basics                           |                | Peer-review                |
+|   10  | 05/18, 05/20              | Lecture  7 Activity 7 | Regularization, Feature/Model selection Deep Learning Advanced |                |                            |
+|   11  | 05/25, 05/27              | Lecture  8 Lecture  9 | CART, Boosting Reinforcement Learning                          |                |                            |
+|   12  | 06/01, 06/03              | Lecture 10 Lecture 11 | Computer Vision NLP                                            |                | Peer-review                |
+|   13  | 06/08, 06/10              | Lecture 12 Lecture 13 | Ethics in NLP/ML Course Wrap-Up                                |                | Progress Update            |
+| 14 15 | 06/15, 06/17 06/22, 06/24 |           -           | Project Team Meetings  with Teaching Staff                     |                |                            |
+|   16  | 06/29, 07/01              |           -           | No final                                                       |                | Final Peer-review          |
 
 ## Team Projects
 
