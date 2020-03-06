@@ -51,7 +51,7 @@ In addition to 80 students registered in the academic system, we will **only** a
 |   12  | 06/01, 06/03              | Lecture 10 Lecture 11 | Computer Vision, NLP                                            |                | Peer-review                |
 |   13  | 06/08, 06/10              | Lecture 12 Lecture 13 | Ethics in NLP/ML, Course Wrap-Up                                |                | Progress Update            |
 | 14, 15 | 06/15, 06/17 06/22, 06/24 |           -           | Project Team Meetings with Teaching Staff                      |                |                            |
-|   16  | 06/29, 07/01              |           -           | No final                                                       |                | Final, Peer-review          |
+|   16  | 06/29, 07/01              |           -           | No final                                                       |                | Final presentation Peer-review          |
 
 ## Team Projects
 
