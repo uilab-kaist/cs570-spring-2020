@@ -41,7 +41,7 @@ In addition to 80 students registered in the academic system, we will **only** a
 |   2   | 03/23, 03/25              | Lecture  1 Activity 1 | Logistic Regression Linear Regression                          | Online Lecture |                            |
 |   3   | 03/30, 04/01              | Lecture  2 Activity 2 | Naive Bayes                                                    |                |                            |
 |   4   | 04/06, 04/08              | Lecture  3 Activity 3 | Exponential Family GDA,SVM, Kernels                            |                |                            |
-|   5   | 04/13, 04/15              | Project               | ML project description                                         | 4/15 Holiday   | Introduction Team matching |
+|   5   | 04/13, ~~04/15~~              | Project               | ML project description                                         | 4/15 Holiday   | Introduction Team matching |
 |   6   | 04/20, 04/22              | Lecture  4 Activity 4 | PCA, ICA,  K-means clustering                                  |                |                            |
 |   7   | 04/27, 04/29              | Lecture  5 Activity 5 | Gaussian Mixture Model, EM                                     |                |                            |
 |   8   | 05/04, 05/06              |           -           | No midterm                                                     |                | Proposal                   |
