@@ -14,9 +14,12 @@ According to the policy of South Korea government and KAIST against the COVID-19
 
 > We will not reply to any emails about course registration. 
 
-Considering a huge demand for additional registration for this course, we decide to **only** accept those from **1st or 2nd year MS/MS-PhD/PhD students at School of Computing. There will be no exceptions/changes in our policy.** When applicable, you should apply for course addition in the Academic System from March 10. The professor will approve your requests on a daily basis. The registration from every other students will not be approved (e.g. undergraduate students, graduate students in EE and AI). We ask for your kind understanding regarding this matter.
+Considering a huge demand for additional registration for this course, we decide to **only** accept those from **1st or 2nd year MS/MS-PhD/PhD students at School of Computing. There will be no exceptions/changes in our policy.** When applicable, you should **apply for course addition in the Academic System in course add/drop period.**. The professor will approve your requests on a daily basis. However, it is not first come first serve. The registration from every other students will not be approved (e.g. undergraduate students, graduate students in EE and AI). We ask for your kind understanding regarding this matter.
 
+---
 
+수강 추가 기간에 많은 수요가 예상되어, **전산학부 석사/석박통합/박사 1, 2년차 학생들은 대상**에 한해 증원 신청을 받을 예정입니다. 안타깝지만 해당 자격을 갖추지 않은 학생들의 경우 추가 신청을 하더라도 허가를 받을 수 없습니다.(하지만 이미 수강 신청을 완료한 학생이라면 수강하실 수 있습니다.) 만약 해당 자격을 갖춘 학생이라면 **수강신청변경 기간동안 학사시스템을 통해 신청하시면 교수님께서 승인해 주실 예정입니다.(선착순 X)**. 
+  
 ## Teaching Staff
 
 - Lecturer: Alice Oh
