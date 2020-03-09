@@ -9,9 +9,12 @@
 According to the policy of South Korea government and KAIST against the COVID-19 spreading throughout the nation, we have decided to deliver a lecture online for the first two weeks. For students who have trouble due to the postponed course closing, please refer to the notice in KLMS **after the semester starts.**
 
 
-## Course Registration
-Considering a huge demand for this course, we decide to **only** accept **1st or 2nd year MS/MS-PhD/PhD students at School of Computing. There will be no exceptions/changes in our policy.** When applicable, you should apply for course addition in the Academic System from March 10. The professor will approve your requests on a daily basis. The registration from every other students will not be approved (e.g. undergraduate students, graduate students in EE and AI). We ask for your kind understanding regarding this matter.
+## Additional Registration
+> This section is only for those who failed at registering this course on the system. If succeeded already, you can take this course no matter which department you belong to.
+
 > We will not reply to any emails about course registration. 
+
+Considering a huge demand for this course, we decide to **only** accept addtional registration from **1st or 2nd year MS/MS-PhD/PhD students at School of Computing. There will be no exceptions/changes in our policy.** When applicable, you should apply for course addition in the Academic System from March 10. The professor will approve your requests on a daily basis. The registration from every other students will not be approved (e.g. undergraduate students, graduate students in EE and AI). We ask for your kind understanding regarding this matter.
 
 
 ## Teaching Staff
