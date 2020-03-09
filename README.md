@@ -11,7 +11,7 @@ According to the policy of South Korea government and KAIST against the COVID-19
 
 ## Course Registration
 Considering a huge demand for this course, we decide to **only** accept **1st or 2nd year MS/MS-PhD/PhD students at School of Computing. There will be no exceptions/changes in our policy.** When applicable, you should apply for course addition in the Academic System from March 10. The professor will approve your requests on a daily basis. The registration from every other students will not be approved (e.g. undergraduate students, graduate students in EE and AI). We ask for your kind understanding regarding this matter.
-> We will not reply to any emails about course registration. Please refer to the section "Course Registration" for detailed information.
+> We will not reply to any emails about course registration. 
 
 
 ## Teaching Staff
