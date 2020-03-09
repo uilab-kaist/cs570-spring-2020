@@ -2,7 +2,7 @@
 
 > Please send email to cs570.uilab@gmail.com regarding any class-related issues, instead of the professor's email.
 
-> We will not reply to any emails about course registration. Please refer to the section "Course Addition" for detailed information.
+> We will not reply to any emails about course addition. Please refer to the section "Course Addition" for detailed information.
 
 
 ## Update in relation to COVID‑19
