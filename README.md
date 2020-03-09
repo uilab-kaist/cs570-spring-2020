@@ -9,12 +9,12 @@
 According to the policy of South Korea government and KAIST against the COVID-19 spreading throughout the nation, we have decided to deliver a lecture online for the first two weeks. For students who have trouble due to the postponed course closing, please refer to the notice in KLMS **after the semester starts.**
 
 
-## Additional Registration
+## Course Addition
 > This section is only for those who failed at registering this course on the system. If succeeded already, you can take this course no matter which department you belong to.
 
-> We will not reply to any emails about course registration. 
+> We will not reply to any emails about course addition. 
 
-Considering a huge demand for additional registration for this course, we decide to **only** approve requests from **1st or 2nd year MS/MS-PhD/PhD students at School of Computing. There will be no exceptions/changes in our policy.** When applicable, you should **apply for course addition in the Academic System in course add/drop period.**. The professor will approve your requests on a daily basis. However, it is not first come first serve. The registration from every other students will not be approved (e.g. undergraduate students, graduate students in EE and AI). We ask for your kind understanding regarding this matter.
+Considering a huge demand for course addition, we decide to **only** approve requests from **1st or 2nd year MS/MS-PhD/PhD students at School of Computing. There will be no exceptions/changes in our policy.** When applicable, you should **apply for course addition in the Academic System during the course add/drop period [(Link)](https://portal.kaist.ac.kr/ennotice/student_notice/11583152634892)**. The professor will approve **every** qualified request, **NOT** on a first come first served basis. The request from every other students will not be approved (e.g. undergraduate students, graduate students in EE and AI). We ask for your kind understanding regarding this matter.
 
 ---
 
