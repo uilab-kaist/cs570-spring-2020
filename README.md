@@ -1,19 +1,17 @@
 # cs570-spring-2020 (Edu 4.0)
 
-## Update in relation to COVID‑19
 > Please send email to cs570.uilab@gmail.com regarding any class-related issues, instead of the professor's email.
 
-According to the policy of South Korea government and KAIST against the COVID-19 spreading throughout the nation, we have decided to deliver a lecture online for the first two weeks. ***We will notice how to register for this course additionally before the day of the first class(March 16) on this webpage.*** For students who have trouble due to the postponed course closing, please refer to the notice in KLMS after the semester starts.
+> We will not reply to any emails about course registration. Please refer to the section "Course Registration" for detailed information.
+
+
+## Update in relation to COVID‑19
+According to the policy of South Korea government and KAIST against the COVID-19 spreading throughout the nation, we have decided to deliver a lecture online for the first two weeks. For students who have trouble due to the postponed course closing, please refer to the notice in KLMS **after the semester starts.**
 
 
 ## Course Registration
-In addition to 80 students registered in the academic system, we will **only** accept **20** additional registrations. Thus, the total number of enrolled students does not exceed 100. According to the following priority, we will not accept [rank 2] in case the number of students in [rank 1] who hopes to register for this course additionally exceeds 20.
-- **Priority**
-
-> 1. SoC MS / Integrated MS/PhD in 1st or 2nd year
-> 2. SoC Undergraduate students in 7th semester or beyond
-> 3. All other graduate students in SoC
-> 4. Graduate students in EE and AI
+Considering a huge demand for this course, we decide to **only** accept **1st or 2nd year MS/MS-PhD/PhD students at School of Computing. There will be no exceptions/changes in our policy.** When applicable, you should apply for course addition in the Academic System from March 10. The professor will approve your requests on a daily basis. The registration from every other students will not be approved (e.g. undergraduate students, graduate students in EE and AI). We ask for your kind understanding regarding this matter.
+> We will not reply to any emails about course registration. Please refer to the section "Course Registration" for detailed information.
 
 
 ## Teaching Staff
