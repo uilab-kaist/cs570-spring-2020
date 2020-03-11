@@ -66,16 +66,18 @@ Considering a huge demand for course addition, we decide to **only** approve req
 
 ## Evaluation 
 
-* 2 Homework Assignments : xx%
-* 7 In-Class Activities : xx%
-* 4-8 Pop Quizzes : xx%
-* Project : xx%
-  * Proposal presentation : x%
-  * Progress presentation : x%
-  * Final presentation: x%
-  * Final report : x%
-  * Peer grading : x%
-  * **Note that any team may get up to -x%p for project score if there is a serious problem with teamwork.**
+* 2 Homework Assignments : 10%
+* 7 In-Class Activities : 25%
+* 4-8 Pop Quizzes : 15%
+* Project : 50%
+  * Proposal presentation : 5%
+  * Progress presentation : 5%
+  * Final presentation: 15%
+  * Final report : 10%
+  * Peer grading : 10%
+  * Team work: 5%
+    
+    **Note that any team may get up to -25%p for project score if there is a serious problem with teamwork.**
 
 ## Textbook
 
