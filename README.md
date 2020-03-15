@@ -42,7 +42,7 @@ Considering a huge demand for course addition, we decide to **only** approve req
 |  week |            Day            |          Type         |                              Topic                             |      notes     |           Project          |
 |:-----:|:-------------------------:|:---------------------:|:--------------------------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | 03/16, 03/18              |           -           | Introduction, Supervised Learning                               | Online Lecture |                            |
-|   2   | 03/23, 03/25              | Lecture  1 Activity 1 | Logistic Regression, Linear Regression                          | **Python Exercise deadline (03/25 10:29:59 am, KST)**|                            |
+|   2   | 03/23, 03/25              | Lecture  1 Activity 1 | Logistic Regression, Linear Regression                          | **Activity 0 deadline (03/25 10:29:59 am, KST)**|                            |
 |   3   | 03/30, 04/01              | Lecture  2 Activity 2 | Naive Bayes                                                    |                |                            |
 |   4   | 04/06, 04/08              | Lecture  3 Activity 3 | GDA, Exponential Family,SVM, Kernels                            |                |                            |
 |   5   | 04/13, ~~04/15~~              | Project               | ML project description                                         | 04/15 Holiday   | Introduction, Team matching |
@@ -62,7 +62,7 @@ Considering a huge demand for course addition, we decide to **only** approve req
 - 7 in-class exercises (see schedule)
 - Implementation & problem solving
 - Designed to be finished during class time, but you can complete by midnight same day for full credit
-- **Complete your Python exercises (Activity 0) before the class starts on March 25th (10:29:59 am on March 25th, KST); We will not let you go on without completing it (automatic F in the class if you continue)**
+- **Complete your Activity 0 (basic Python exercises) before the class starts on March 25th (10:29:59 am on March 25th, KST); We will not let you go on without completing it (automatic F in the class if you continue)**
 
 ## Team Projects
 
