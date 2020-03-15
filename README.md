@@ -42,7 +42,7 @@ Considering a huge demand for course addition, we decide to **only** approve req
 |  week |            Day            |          Type         |                              Topic                             |      notes     |           Project          |
 |:-----:|:-------------------------:|:---------------------:|:--------------------------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | 03/16, 03/18              |           -           | Introduction, Supervised Learning                               | Online Lecture |                            |
-|   2   | 03/23, 03/25              | Lecture  1 Activity 1 | Logistic Regression, Linear Regression                          | **,Python Exercise deadline (03/25 10:29:59 am, KST)**|                            |
+|   2   | 03/23, 03/25              | Lecture  1 Activity 1 | Logistic Regression, Linear Regression                          | **Python Exercise deadline (03/25 10:29:59 am, KST)**|                            |
 |   3   | 03/30, 04/01              | Lecture  2 Activity 2 | Naive Bayes                                                    |                |                            |
 |   4   | 04/06, 04/08              | Lecture  3 Activity 3 | GDA, Exponential Family,SVM, Kernels                            |                |                            |
 |   5   | 04/13, ~~04/15~~              | Project               | ML project description                                         | 04/15 Holiday   | Introduction, Team matching |
