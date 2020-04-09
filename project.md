@@ -39,6 +39,7 @@ You should record your presentation with the **slide and your face**, and upload
 - Data mining conferences: **KDD, CIKM, WSDM**
 
 ## Project Proposal
+Give a **5-8 minute proposal presentation** that includes the following:
 - **Problem**: What is the topic of your paper? What is the specific task being tackled? Why is it important to solve this problem?
 - **Related work**: What existing papers have dealt with this problem? What were their approaches? Discuss the three papers you’ve chosen here.
 - **Replication approach**: Which paper will you use for replication and why?
@@ -48,7 +49,7 @@ You should record your presentation with the **slide and your face**, and upload
 
 
 ## Progress Update
-Give a 7-10 minute progress presentation that includes the following:
+Give a **7-10 minute progress presentation** that includes the following:
 - **Introduction**: Please briefly explain your problem, approach, and dataset.
 - **Replication results**: 
   - How did you replicate the original paper? What problems did you face during the replication, and how did you solve them?
@@ -57,7 +58,7 @@ Give a 7-10 minute progress presentation that includes the following:
   - Again, how will you improve or modify the original paper? Please have a more concrete plan for this based on the replication results.
 
 ## Final Presentation & Final Report
-Give a 10-15 minute final presentation and submit a 4-6 page (+ unlimited references) report in ICML format. Below is the structure of the final report. The final presentation should contain the same content but in a presentation style.
+Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited references) report** in ICML format. Below is the structure of the final report. The final presentation should contain the same content but in a presentation style.
 - **Abstract**: Summary of your work
 - **Introduction**: Background and your motivation for the problem
 - **Approach**: Your approach to solving the problem
