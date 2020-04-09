@@ -1,10 +1,10 @@
 # CS570 team project 
 
 ## Schedule
-- Week  5 (04/13): Introduction, Team matching
-- Week  8 (05/04, 05/06): Project proposal, Peer-review
-- Week 12 (06/01, 06/03): Progress Update, Peer-review
-- Week 16 (06/29, 07/01): Final presentation, Peer-review
+- Week  5 (04/13): **Introduction, Team matching**
+- Week  8 (05/04, 05/06): **Project proposal, Peer-review**
+- Week 12 (06/01, 06/03): **Progress Update, Peer-review**
+- Week 16 (06/29, 07/01): **Final presentation, Peer-review**
 
 ## Goal
 This project aims to replicate an existing paper and then make meaningful improvements/extensions in terms of machine learning model, features, datasets, evaluation metrics or baseline comparisons.
@@ -13,12 +13,12 @@ This project aims to replicate an existing paper and then make meaningful improv
 This is a team-based project. Please form teams of **3-4 students** by **April 16**. If you need help forming teams, advertise yourself and find your teammate in **slack channel # proj-team-matching**.
 
 ## Project Grading (50% of Course Grade)				
-- Proposal presentation: 5%
-- Progress presentation: 5%
-- Final presentation: 15%
-- Final report: 10%
-- Peer grading: 10%
-- Teamwork: 5%
+- **Proposal presentation**: 5%
+- **Progress presentation**: 5%
+- **Final presentation**: 15%
+- **Final report**: 10%
+- **Peer grading**: 10%
+- **Teamwork evaluation**: 5%
 
 **Note that any team may get up to -25%p for project scores if there is a serious problem with teamwork.** That means, the project grade could be 25/50, even if all presentation and report scores are perfect. This can apply to an individual student, rather than the entire team.
 
@@ -34,9 +34,9 @@ You should record your presentation with the **slide and your face**, and upload
 
 ## Venue
 **Choose a topic and at least 3 papers** published at the following conferences from **2017**. Among these three papers, choose one as your replication paper, and the others as comparison papers.
-- Machine learning conferences: NeurIPS, ICML, ICLR, IJCAI, AAAI
-- NLP/Computer vision conferences: ACL, EMNLP, ICCV, CVPR
-- Data mining conferences: KDD, CIKM, WSDM
+- Machine learning conferences: **NeurIPS, ICML, ICLR, IJCAI, AAAI**
+- NLP/Computer vision conferences: **ACL, EMNLP, ICCV, CVPR**
+- Data mining conferences: **KDD, CIKM, WSDM**
 
 ## Project Proposal
 - **Problem**: What is the topic of your paper? What is the specific task being tackled? Why is it important to solve this problem?
