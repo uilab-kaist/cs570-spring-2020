@@ -2,9 +2,9 @@
 
 ## Schedule
 - Week  5 (04/13): **Introduction, Team matching**
-- Week  8 (05/04, 05/06): **Project proposal, Peer-review**
-- Week 12 (06/01, 06/03): **Progress Update, Peer-review**
-- Week 16 (06/29, 07/01): **Final presentation, Peer-review**
+- Week  8 (05/04, 05/06): **Project proposal, Peer grading**
+- Week 12 (06/01, 06/03): **Progress Update, Peer grading**
+- Week 16 (06/29, 07/01): **Final presentation, Final report, Peer grading, Teamwork evaluation**
 
 ## Goal
 This project aims to replicate an existing paper and then make meaningful improvements/extensions in terms of machine learning model, features, datasets, evaluation metrics or baseline comparisons.
