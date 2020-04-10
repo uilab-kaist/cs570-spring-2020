@@ -73,8 +73,8 @@ Considering a huge demand for course addition, we decide to **only** approve req
 
 ## Evaluation 
 
-* ~2 Homework Assignments : 10%~
-* 7 In-Class Activities : ~25~ 35%
+* <s>2 Homework Assignments : 10%</s>
+* 7 In-Class Activities : <s>25</s> 35%
 * 4-8 Pop Quizzes : 15%
 * Project : 50%
   * Proposal presentation : 5%
