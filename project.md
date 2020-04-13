@@ -29,7 +29,7 @@ You should record your presentation with the **slide and your face**, and upload
 - **Progress presentation**: 7-10 minute presentation
 - **Final presentation**: 10-15 minute presentation
 - **Final report**: 4-6 pages report (+ unlimited references) and slides used for final presentation
-- **Peer grading**: 3 peer gradings for proposal, progress, and final presentation
+- **Peer grading**: 5 peer gradings for proposal, progress, and final presentation
 - **Teamwork report**: (individually written/submitted) description of what each team member did
 
 ## Venue
