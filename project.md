@@ -4,7 +4,7 @@
 - Week  5 (04/13): **Introduction, Team matching**
 - Week  8 (05/04, 05/06): **Project proposal, Peer grading**
 - Week 12 (06/01, 06/03): **Progress Update, Peer grading**
-- Week 16 (06/29, 07/01): **Final presentation, Final report, Peer grading, Teamwork evaluation**
+- Week 16 (06/29, 07/01): **Final presentation, Final report, Peer grading, Teamwork report**
 
 ## Goal
 This project aims to replicate an existing paper and then make meaningful improvements/extensions in terms of machine learning model, features, datasets, evaluation metrics or baseline comparisons.
@@ -18,7 +18,7 @@ This is a team-based project. Please form teams of **3-4 students** by **April 1
 - **Final presentation**: 15%
 - **Final report**: 10%
 - **Peer grading**: 10%
-- **Teamwork evaluation**: 5%
+- **Teamwork report**: 5%
 
 **Note that any team may get up to -25%p for project scores if there is a serious problem with teamwork.** That means, the project grade could be 25/50, even if all presentation and report scores are perfect. This can apply to an individual student, rather than the entire team.
 
@@ -30,7 +30,7 @@ You should record your presentation with the **slide and your face**, and upload
 - **Final presentation**: 10-15 minute presentation
 - **Final report**: 4-6 pages report (+ unlimited references) and slides used for final presentation
 - **Peer grading**: 3 peer gradings for proposal, progress, and final presentation
-- **Teamwork evaluation**: (individually written/submitted) description of what each team member did
+- **Teamwork report**: (individually written/submitted) description of what each team member did
 
 ## Venue
 **Choose a topic and at least 3 papers** published at the following conferences from **2017**. Among these three papers, choose one as your replication paper, and the others as comparison papers.
@@ -77,7 +77,7 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
   - 5 progress presentations
   - 5 final presentations & reports
 
-## Teamwork Evaluation
+## Teamwork Report
 - We will use Google form (TBD)
 - Everyone should contribute, and everyone should learn something new
 - Everyone (individually) should write
