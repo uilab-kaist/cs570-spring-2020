@@ -24,7 +24,7 @@ This is a team-based project. Please form teams of **3-4 students** by **April 1
 
 
 ## Deliverables
-You should record your presentation with the **slide and your face**, and upload the video to **youtube**. The detailed instruction will be noticed later.
+**All project team members should present an important part in the presentation (speak for at least one minute each)**. You should record your presentation with the **slide and your face**, and upload the video to **YouTube/OpenReview(TBD)**. We recommend you to use [Zoom](https://zoom.us/) (or [Loom](https://www.loom.com/)) for recording. The detailed instruction will be noticed later.
 - **Proposal presentation**: 5-8 minute presentation 
 - **Progress presentation**: 7-10 minute presentation
 - **Final presentation**: 10-15 minute presentation
