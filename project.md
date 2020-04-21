@@ -3,8 +3,8 @@
 ## Schedule
 - Week  5 (04/13): **Introduction, Team matching**
 - Week  8 (05/04, 05/06): **Project proposal, Peer grading**
-  - Proposal submission deadline: 05/04 11:59 pm
-  - Peer grading: 05/07 - 05/10 11:59 pm
+  - Proposal submission deadline: **05/04 11:59 pm**
+  - Peer grading: **05/07 - 05/10 11:59 pm**
 - Week 12 (06/01, 06/03): **Progress Update, Peer grading**
 - Week 16 (06/29, 07/01): **Final presentation, Final report, Peer grading, Teamwork report**
 
