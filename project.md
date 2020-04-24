@@ -37,7 +37,7 @@ This is a team-based project. Please form teams of **3-4 students** by **April 1
 ## Venue
 **Choose a topic and at least 3 papers** published at the following conferences from **2017**. Among these three papers, choose one as your replication paper, and the others as comparison papers.
 - Machine learning conferences: **NeurIPS, ICML, ICLR, IJCAI, AAAI**
-- NLP/Computer vision conferences: **ACL, EMNLP, ICCV, CVPR**
+- NLP/Computer vision conferences: **ACL, EMNLP, NAACL, ICCV, CVPR**
 - Data mining conferences: **KDD, CIKM, WSDM**
 
 ## Project Proposal
