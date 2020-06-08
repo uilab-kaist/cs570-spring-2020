@@ -33,7 +33,7 @@ This is a team-based project. Please form teams of **3-4 students** by **April 1
 - **Progress presentation**: 7-10 minute presentation
 - **Final presentation**: 10-15 minute presentation
 - **Final report**: 4-6 pages report (+ unlimited references) and slides used for final presentation
-- **Peer grading**: ~5~ 4 peer gradings for proposal, progress, final presentation, ~slides,~ and final report
+- **Peer grading**: <s>5</s> 4 peer gradings for proposal, progress, final presentation, <s>slides,</s> and final report
 - **Teamwork report**: (individually written/submitted) description of what each team member did
 
 ## Venue
